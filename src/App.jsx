@@ -78,7 +78,7 @@ const Portfolio = () => {
 
           <div className="space-y-4">
             <h1 className="text-4xl lg:text-5xl font-bold tracking-tight py-5">
-              John Mark Dinglasan
+              JohnMark Dinglasan
             </h1>
             <div className="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-10">
               <p className="text-xl text-gray-600">Full-Stack Developer</p>
@@ -95,7 +95,7 @@ const Portfolio = () => {
               </a>
               <a
                 href="/path/to/your-cv.pdf"
-                download="John Mark Dinglasan - CV.pdf"
+                download="JohnMark Dinglasan - CV.pdf"
                 className="px-4 py-2 bg-white border border-gray-300 rounded hover:border-gray-400 hover:bg-gray-50 transition-colors"
               >
                 CV
@@ -278,7 +278,7 @@ const Portfolio = () => {
         {/* Footer */}
         <div className={`border-t pt-8 text-center transform transition-all duration-700 delay-800 ${isLoaded ? 'translate-y-0 opacity-100' : 'translate-y-8 opacity-0'}`}>
           <p className="text-xs text-gray-400">
-            John Mark Dinglasan @ 2025
+            JohnMark Dinglasan @ 2025
           </p>
         </div>
       </div>
