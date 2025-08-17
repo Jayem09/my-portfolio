@@ -93,6 +93,13 @@ const Portfolio = () => {
               >
                 Get in touch
               </a>
+              <a
+                href="/path/to/your-cv.pdf"
+                download="John Mark Dinglasan - CV.pdf"
+                className="px-4 py-2 bg-white border border-gray-300 rounded hover:border-gray-400 hover:bg-gray-50 transition-colors"
+              >
+                CV
+              </a>
 
               <a
                 href="https://github.com/Jayem09"
